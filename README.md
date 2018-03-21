@@ -1,7 +1,7 @@
 # Deep-Learning-Nanodegree
 Udacity Deep Learning Nanodegree Course Projects
 
-##Syllabus
+## Syllabus
 
 ### Neural Networks
 Neural networks are the bedrock to deep learning. In this section, you’ll learn how they work and test your ability by building a neural network from scratch.  
